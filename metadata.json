@@ -1,0 +1,6 @@
+{
+  "name": "SimpleTickets",
+  "description": "Sistema simples e acessível para abertura e acompanhamento de chamados de suporte de TI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
